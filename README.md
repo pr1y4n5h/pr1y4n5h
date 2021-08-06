@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 I am Priyansh currently learning full stack development.
 
 <!--
 **pr1y4n5h/pr1y4n5h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
